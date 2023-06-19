@@ -1,0 +1,703 @@
+,rank,userName,teamName,teamPoints,activity,points
+0,1,RamKumar Gugamsetty ,Couch Potato Lifters,140,Steps Count,140
+1,2,Lutz,The Site Reliability Sprinters,112,Steps Count,112
+2,3,Pradeep Singh Rawat,Fitness Mantra @DLM,105,Steps Count,105
+3,4,Nikhil Gaur,Beer-Biceps,104,Steps Count,104
+4,5,Hiromi Kessler,The Linguistic Warriors,97,Steps Count,97
+5,5,Prateek Ram,Aarogya_Bhagya,97,Steps Count,97
+6,6,Nitish Kumar Sinha,Cloud Fit,95,Steps Count,95
+7,7,Ankit,The Site Reliability Sprinters,92,Steps Count,92
+8,7,Sebastian Walde,The Site Reliability Sprinters,92,Steps Count,92
+9,8,Mohammed Saqib ,Couch Potato Lifters,90,Steps Count,90
+10,8,Kishan Bhaskar Nagaraj,40230,90,Steps Count,90
+11,8,Hari,The Site Reliability Sprinters,90,Steps Count,90
+12,8,Rajesh Agrawal,Fitness Freaks,90,Steps Count,90
+13,8,Lars Zankl,The Linguistic Warriors,90,Steps Count,90
+14,8,Saswati Rudra Paul,SForce,90,Steps Count,90
+15,8,Deep Srivastava,Burger Buddies,90,Steps Count,90
+16,8,Sohini Mukhopadhyay,Circuit Breakers,90,Steps Count,90
+17,8,Prashanth Muniraju ,Cloud Fit,90,Steps Count,90
+18,8,Deepa Muralidharan,SForce,90,Steps Count,90
+19,8,Meghana Goud,Fitness Mantra @DLM,90,Steps Count,90
+20,8,Parisa Anwar Dar,Fit-at-STE,90,Steps Count,90
+21,8,Shagun Goyal,Burger Buddies,90,Steps Count,90
+22,8,Viboo,The Site Reliability Sprinters,90,Steps Count,90
+23,8,Rahul Kushwah,FitX,90,Steps Count,90
+24,8,Chetan N,Fitness Mantra @DLM,90,Steps Count,90
+25,8,Latha Balasubramanian,Excellent Walkers,90,Steps Count,90
+26,8,Dhanush K Shet,Fit-at-STE,90,Steps Count,90
+27,8,Rajni Mahajan,Burger Buddies,90,Steps Count,90
+28,8,Yatin Shekhar Kotian,Calm Cloud Walkers,90,Steps Count,90
+29,8,Sumit Singh,Fit-at-STE,90,Steps Count,90
+30,8,Udatta Garnaik,FrontRunners,90,Steps Count,90
+31,8,Jiawen,Shiny Girls,90,Steps Count,90
+32,8,Preeti Rai,FitX,90,Steps Count,90
+33,8,Jun Chu,Calabash Squad,90,Steps Count,90
+34,8,Sharanabasappa Hosamani,SForce,90,Steps Count,90
+35,8,Kenny Zhu,Calabash Squad,90,Steps Count,90
+36,8,Rishabh Tripathi,Fit-at-STE,90,Steps Count,90
+37,8,Sunil GN,Fitness Mantra @DLM,90,Steps Count,90
+38,8,Skyla Shen,Calabash Squad,90,Steps Count,90
+39,8,Hari Naga Durga Nakka,SForce,90,Steps Count,90
+40,8,Yuvraj Saini,Burger Buddies,90,Steps Count,90
+41,8,Simon Shen,Calabash Squad,90,Steps Count,90
+42,8,Vikas Shukla,Burger Buddies,90,Steps Count,90
+43,8,Syam Kumar,FrontRunners,90,Steps Count,90
+44,8,Thulasi T. D.,Beer-Biceps,90,Steps Count,90
+45,8,Dinesh BM,FitX,90,Steps Count,90
+46,8,Rajesh,Fit Force,90,Steps Count,90
+47,8,Tao Pan,Calabash Squad,90,Steps Count,90
+48,8,Sanjeev Joshi,Flab-U-Less @DLM,90,Steps Count,90
+49,8,Sucheta Panda,Fitness Mantra @DLM,90,Steps Count,90
+50,8,Harsha Gubbi,40230,90,Steps Count,90
+51,8,Jaheer Pathan,MissFits,90,Steps Count,90
+52,8,Prashant Telkar,40230,90,Steps Count,90
+53,8,Nagarajaiah Naveen,RCB,90,Steps Count,90
+54,8,Pratik Mishra,SForce,90,Steps Count,90
+55,8,Sugandh Singhal,FitX,90,Steps Count,90
+56,8,Mohan Rao,2 cool 2 quit,90,Steps Count,90
+57,8,Brahma Satya,RCB,90,Steps Count,90
+58,8,Prathap C,Calm Cloud Walkers,90,Steps Count,90
+59,8,Divya Garg,FrontRunners,90,Steps Count,90
+60,8,Lavanya KV ,FrontRunners,90,Steps Count,90
+61,8,Sowrabh Mehetre,Calm Cloud Walkers,90,Steps Count,90
+62,9,Pragya Swarnwnshi,FitX,87,Steps Count,87
+63,10,Ashish Kumar,Fit-at-STE,85,Steps Count,85
+64,11,Pavithra KL,FrontRunners,80,Steps Count,80
+65,11,BIJO PAUL,MSCN,80,Steps Count,80
+66,11,Antara Banerjee,Cloud Fit,80,Steps Count,80
+67,11,Daivik  P. R. ,Beer-Biceps,80,Steps Count,80
+68,11,Sahana TJ,Fat-averse,80,Steps Count,80
+69,11,Nora Ley,The Linguistic Warriors,80,Steps Count,80
+70,11,SREEKARAN B,Couch Potato Lifters,80,Steps Count,80
+71,11,Arun V,Flab-U-Less @DLM,80,Steps Count,80
+72,12,Stefan Barth,The Linguistic Warriors,75,Steps Count,75
+73,13,Kavana,Shiny Girls,72,Steps Count,72
+74,14,Balaji,DLM Cruzer's,70,Steps Count,70
+75,14,Anil Kumar,40230,70,Steps Count,70
+76,14,Mohd Anas Khan,2 Lazy 2 Fit,70,Steps Count,70
+77,14,Nitin Pradhan,Fantastic Five,70,Steps Count,70
+78,14,Mahima,DLM Cruzer's,70,Steps Count,70
+79,14,Suvarna BH,Calm Cloud Walkers,70,Steps Count,70
+80,15,Aditya Shellar,CFND Rockstars,60,Steps Count,60
+81,15,Shubhang Dhekula,Cloud Fit,60,Steps Count,60
+82,15,SHRUTI BHARTI,MSCN,60,Steps Count,60
+83,15,HY,Shiny Girls,60,Steps Count,60
+84,15,KISHAN BHARADWAJ P,MSCN,60,Steps Count,60
+85,15,Madhu Kata,Aarogya_Bhagya,60,Steps Count,60
+86,15,Shashikala K.,Beer-Biceps,60,Steps Count,60
+87,15,Ashiq Aboo Backer,Fantastic Five,60,Steps Count,60
+88,15,Ahir Sunilkumar,RCB,60,Steps Count,60
+89,15,Latika Pande,Couch Potato Lifters,60,Steps Count,60
+90,16,Alex Sun,A Big Colourful Fly X,50,Steps Count,50
+91,16,Ananth Vasist,40230,50,Steps Count,50
+92,16,Karan,DLM Cruzer's,50,Steps Count,50
+93,16,Disha JR,Fantastic Five,50,Steps Count,50
+94,16,Penny,Shiny Girls,50,Steps Count,50
+95,16,Bijaya Tripathy,CFND Rockstars,50,Steps Count,50
+96,16,Rahul M,2 Lazy 2 Fit,50,Steps Count,50
+97,17,Arunkumar Gowda,Fitness Freaks,40,Steps Count,40
+98,17,Roopa Hubballi,Fitness Freaks,40,Steps Count,40
+99,17,Soujit,Game Beasts,40,Steps Count,40
+100,17,Rajashekharaiah,2 cool 2 quit,40,Steps Count,40
+101,17,Andreas Doemel,The Linguistic Warriors,40,Steps Count,40
+102,17,Naveen,DLM Cruzer's,40,Steps Count,40
+103,17,Ritika Gupta,Flab-U-Less @DLM,40,Steps Count,40
+104,17,Sumithra,Fit Force,40,Steps Count,40
+105,17,Niharika Choudhary,2 cool 2 quit,40,Steps Count,40
+106,17,Johannes Humburger,CFND Rockstars,40,Steps Count,40
+107,17,Anilraj Menon,2 Lazy 2 Fit,40,Steps Count,40
+108,17,Srinivasan G,Calm Cloud Walkers,40,Steps Count,40
+109,17,Xianwei Ying,A Big Colourful Fly X,40,Steps Count,40
+110,17,Soumya Panigrahy,SM Champions,40,Steps Count,40
+111,17,Rounak Mudbhatkal,Fat-averse,40,Steps Count,40
+112,18,Aditya Chandra,Fat-averse,30,Steps Count,30
+113,18,Karthikeyan ,Cloud Fit,30,Steps Count,30
+114,18,Shwetha Kamath B M,MissFits,30,Steps Count,30
+115,18,Verma Prateek,RCB,30,Steps Count,30
+116,18,Rajat J,Extreme achievers,30,Steps Count,30
+117,18,Varsha,Fit Force,30,Steps Count,30
+118,18,AAYUSH CHAURASIA,MSCN,30,Steps Count,30
+119,18,Pius Anil,RCB,30,Steps Count,30
+120,18,Aishwarya,Couch Potato Lifters,30,Steps Count,30
+121,18,Wilma Castelino,2 cool 2 quit,30,Steps Count,30
+122,18,Deebisha Mahadevan,Flab-U-Less @DLM,30,Steps Count,30
+123,18,Shubham Saklani,MissFits,30,Steps Count,30
+124,18,Adil Basha Bommagatti,Fat-averse,30,Steps Count,30
+125,18,Naeem Zakir,CFND Rockstars,30,Steps Count,30
+126,18,Ashwini Pai,2 cool 2 quit,30,Steps Count,30
+127,19,Colin Ren,A Big Colourful Fly X,20,Steps Count,20
+128,19,Arup Kumar Mondal,MissFits,20,Steps Count,20
+129,19,Rukma Bhaskar,Fat-averse,20,Steps Count,20
+130,19,Aishwarya T,Extreme achievers,20,Steps Count,20
+131,19,Vandana M,Extreme achievers,20,Steps Count,20
+132,20,Devesh,#devTeam,10,Steps Count,10
+133,20,Shilpa,Game Beasts,10,Steps Count,10
+134,20,Mihir Suman,Excellent Walkers,10,Steps Count,10
+135,20,Aman Tanwar,SM Champions,10,Steps Count,10
+136,20,Vengad,#devTeam,10,Steps Count,10
+137,20,Benny Mei,A Big Colourful Fly X,10,Steps Count,10
+138,20,Sarish,Fit Force,10,Steps Count,10
+139,20,Merson,#devTeam,10,Steps Count,10
+140,20,"Pudhuvayil, Anil Kumar",SM Champions,10,Steps Count,10
+141,1,Nikhil Gaur,Beer-Biceps,20,Healthy Bites,20
+142,1,Nitish Kumar Sinha,Cloud Fit,20,Healthy Bites,20
+143,1,Arunkumar Gowda,Fitness Freaks,20,Healthy Bites,20
+144,1,Saswati Rudra Paul,SForce,20,Healthy Bites,20
+145,1,Vikas Shukla,Burger Buddies,20,Healthy Bites,20
+146,1,Thulasi T. D.,Beer-Biceps,20,Healthy Bites,20
+147,1,Simon Shen,Calabash Squad,20,Healthy Bites,20
+148,1,Syam Kumar,FrontRunners,20,Healthy Bites,20
+149,1,Sebastian Walde,The Site Reliability Sprinters,20,Healthy Bites,20
+150,1,Hari,The Site Reliability Sprinters,20,Healthy Bites,20
+151,1,Aishwarya,Couch Potato Lifters,20,Healthy Bites,20
+152,1,Yuvraj Saini,Burger Buddies,20,Healthy Bites,20
+153,1,Hari Naga Durga Nakka,SForce,20,Healthy Bites,20
+154,1,Pradeep Singh Rawat,Fitness Mantra @DLM,20,Healthy Bites,20
+155,1,Aishwarya T,Extreme achievers,20,Healthy Bites,20
+156,1,Mohammed Saqib ,Couch Potato Lifters,20,Healthy Bites,20
+157,1,Sunil GN,Fitness Mantra @DLM,20,Healthy Bites,20
+158,1,Parisa Anwar Dar,Fit-at-STE,20,Healthy Bites,20
+159,1,Meghana Goud,Fitness Mantra @DLM,20,Healthy Bites,20
+160,1,Sanjeev Joshi,Flab-U-Less @DLM,20,Healthy Bites,20
+161,1,Deepa Muralidharan,SForce,20,Healthy Bites,20
+162,1,Sucheta Panda,Fitness Mantra @DLM,20,Healthy Bites,20
+163,1,Prashanth Muniraju ,Cloud Fit,20,Healthy Bites,20
+164,1,Sohini Mukhopadhyay,Circuit Breakers,20,Healthy Bites,20
+165,1,Ashish Kumar,Fit-at-STE,20,Healthy Bites,20
+166,1,Pragya Swarnwnshi,FitX,20,Healthy Bites,20
+167,1,Karthikeyan ,Cloud Fit,20,Healthy Bites,20
+168,1,Deep Srivastava,Burger Buddies,20,Healthy Bites,20
+169,1,Benny Mei,A Big Colourful Fly X,20,Healthy Bites,20
+170,1,Shubhang Dhekula,Cloud Fit,20,Healthy Bites,20
+171,1,Dinesh BM,FitX,20,Healthy Bites,20
+172,1,Kavana,Shiny Girls,20,Healthy Bites,20
+173,1,Sumit Singh,Fit-at-STE,20,Healthy Bites,20
+174,1,Ankit,The Site Reliability Sprinters,20,Healthy Bites,20
+175,1,Rajni Mahajan,Burger Buddies,20,Healthy Bites,20
+176,1,Mahima,DLM Cruzer's,20,Healthy Bites,20
+177,1,Dhanush K Shet,Fit-at-STE,20,Healthy Bites,20
+178,1,Latha Balasubramanian,Excellent Walkers,20,Healthy Bites,20
+179,1,Chetan N,Fitness Mantra @DLM,20,Healthy Bites,20
+180,1,Sugandh Singhal,FitX,20,Healthy Bites,20
+181,1,Rahul Kushwah,FitX,20,Healthy Bites,20
+182,1,Pratik Mishra,SForce,20,Healthy Bites,20
+183,1,Viboo,The Site Reliability Sprinters,20,Healthy Bites,20
+184,1,Shilpa,Game Beasts,20,Healthy Bites,20
+185,1,Jaheer Pathan,MissFits,20,Healthy Bites,20
+186,1,Shagun Goyal,Burger Buddies,20,Healthy Bites,20
+187,1,Latika Pande,Couch Potato Lifters,20,Healthy Bites,20
+188,1,SHRUTI BHARTI,MSCN,20,Healthy Bites,20
+189,1,Rishabh Tripathi,Fit-at-STE,20,Healthy Bites,20
+190,1,Hiromi Kessler,The Linguistic Warriors,20,Healthy Bites,20
+191,1,KISHAN BHARADWAJ P,MSCN,20,Healthy Bites,20
+192,1,Sharanabasappa Hosamani,SForce,20,Healthy Bites,20
+193,1,Prateek Ram,Aarogya_Bhagya,20,Healthy Bites,20
+194,1,HY,Shiny Girls,20,Healthy Bites,20
+195,1,Lutz,The Site Reliability Sprinters,20,Healthy Bites,20
+196,1,Lavanya KV ,FrontRunners,20,Healthy Bites,20
+197,1,Preeti Rai,FitX,20,Healthy Bites,20
+198,1,Divya Garg,FrontRunners,20,Healthy Bites,20
+199,1,Pavithra KL,FrontRunners,20,Healthy Bites,20
+200,1,Udatta Garnaik,FrontRunners,20,Healthy Bites,20
+201,1,Pradeep Singh Rawat,Fitness Mantra @DLM,57,Outdoor Running,57
+202,2,Rahul Kushwah,FitX,45,Outdoor Running,45
+203,3,Ashish Kumar,Fit-at-STE,42,Outdoor Running,42
+204,4,Thulasi T. D.,Beer-Biceps,40,Outdoor Running,40
+205,4,Simon Shen,Calabash Squad,40,Outdoor Running,40
+206,4,Hari Naga Durga Nakka,SForce,40,Outdoor Running,40
+207,4,Mohammed Saqib ,Couch Potato Lifters,40,Outdoor Running,40
+208,4,Sunil GN,Fitness Mantra @DLM,40,Outdoor Running,40
+209,4,Meghana Goud,Fitness Mantra @DLM,40,Outdoor Running,40
+210,4,Sucheta Panda,Fitness Mantra @DLM,40,Outdoor Running,40
+211,4,Pragya Swarnwnshi,FitX,40,Outdoor Running,40
+212,4,Prashanth Muniraju ,Cloud Fit,40,Outdoor Running,40
+213,4,Latha Balasubramanian,Excellent Walkers,40,Outdoor Running,40
+214,4,Chetan N,Fitness Mantra @DLM,40,Outdoor Running,40
+215,4,Viboo,The Site Reliability Sprinters,40,Outdoor Running,40
+216,4,Sugandh Singhal,FitX,40,Outdoor Running,40
+217,4,Dhanush K Shet,Fit-at-STE,40,Outdoor Running,40
+218,4,Shagun Goyal,Burger Buddies,40,Outdoor Running,40
+219,4,Rishabh Tripathi,Fit-at-STE,40,Outdoor Running,40
+220,4,Hiromi Kessler,The Linguistic Warriors,40,Outdoor Running,40
+221,4,Prateek Ram,Aarogya_Bhagya,40,Outdoor Running,40
+222,4,Lutz,The Site Reliability Sprinters,40,Outdoor Running,40
+223,4,Lavanya KV ,FrontRunners,40,Outdoor Running,40
+224,4,Divya Garg,FrontRunners,40,Outdoor Running,40
+225,4,Pavithra KL,FrontRunners,40,Outdoor Running,40
+226,4,Nikhil Gaur,Beer-Biceps,40,Outdoor Running,40
+227,5,Shubhang Dhekula,Cloud Fit,35,Outdoor Running,35
+228,6,Lars Zankl,The Linguistic Warriors,32,Outdoor Running,32
+229,6,SREEKARAN B,Couch Potato Lifters,32,Outdoor Running,32
+230,7,Syam Kumar,FrontRunners,30,Outdoor Running,30
+231,7,Sebastian Walde,The Site Reliability Sprinters,30,Outdoor Running,30
+232,7,RamKumar Gugamsetty ,Couch Potato Lifters,30,Outdoor Running,30
+233,7,Hari,The Site Reliability Sprinters,30,Outdoor Running,30
+234,7,Nora Ley,The Linguistic Warriors,30,Outdoor Running,30
+235,7,Dinesh BM,FitX,30,Outdoor Running,30
+236,7,Sumit Singh,Fit-at-STE,30,Outdoor Running,30
+237,7,Preeti Rai,FitX,30,Outdoor Running,30
+238,8,Roopa Hubballi,Fitness Freaks,20,Outdoor Running,20
+239,8,Vikas Shukla,Burger Buddies,20,Outdoor Running,20
+240,8,Yuvraj Saini,Burger Buddies,20,Outdoor Running,20
+241,8,Kishan Bhaskar Nagaraj,40230,20,Outdoor Running,20
+242,8,Sanjeev Joshi,Flab-U-Less @DLM,20,Outdoor Running,20
+243,8,Mohd Anas Khan,2 Lazy 2 Fit,20,Outdoor Running,20
+244,8,Deep Srivastava,Burger Buddies,20,Outdoor Running,20
+245,8,Ashiq Aboo Backer,Fantastic Five,20,Outdoor Running,20
+246,8,Ankit,The Site Reliability Sprinters,20,Outdoor Running,20
+247,8,Rajni Mahajan,Burger Buddies,20,Outdoor Running,20
+248,8,Naveen,DLM Cruzer's,20,Outdoor Running,20
+249,8,Nitin Pradhan,Fantastic Five,20,Outdoor Running,20
+250,8,Pratik Mishra,SForce,20,Outdoor Running,20
+251,8,Latika Pande,Couch Potato Lifters,20,Outdoor Running,20
+252,8,Harsha Gubbi,40230,20,Outdoor Running,20
+253,8,KISHAN BHARADWAJ P,MSCN,20,Outdoor Running,20
+254,8,Rahul M,2 Lazy 2 Fit,20,Outdoor Running,20
+255,8,BIJO PAUL,MSCN,20,Outdoor Running,20
+256,8,Arun V,Flab-U-Less @DLM,20,Outdoor Running,20
+257,8,Stefan Barth,The Linguistic Warriors,20,Outdoor Running,20
+258,9,Vengad,#devTeam,15,Outdoor Running,15
+259,10,Kartheek N V,2 Lazy 2 Fit,12,Outdoor Running,12
+260,11,Udatta Garnaik,FrontRunners,10,Outdoor Running,10
+261,11,Ananth Vasist,40230,10,Outdoor Running,10
+262,11,Niharika Choudhary,2 cool 2 quit,10,Outdoor Running,10
+263,11,Sumithra,Fit Force,10,Outdoor Running,10
+264,11,Alex Sun,A Big Colourful Fly X,10,Outdoor Running,10
+265,11,Ahir Sunilkumar,RCB,10,Outdoor Running,10
+266,11,Shashikala K.,Beer-Biceps,10,Outdoor Running,10
+267,11,Mahima,DLM Cruzer's,10,Outdoor Running,10
+268,11,Rajat J,Extreme achievers,10,Outdoor Running,10
+269,11,Naeem Zakir,CFND Rockstars,10,Outdoor Running,10
+270,11,Bijaya Tripathy,CFND Rockstars,10,Outdoor Running,10
+271,11,HY,Shiny Girls,10,Outdoor Running,10
+272,1,Lutz,The Site Reliability Sprinters,80,Outdoor Cycling,80
+273,2,Nora Ley,The Linguistic Warriors,52,Outdoor Cycling,52
+274,3,Prashanth Muniraju ,Cloud Fit,45,Outdoor Cycling,45
+275,4,Sugandh Singhal,FitX,42,Outdoor Cycling,42
+276,5,Udatta Garnaik,FrontRunners,40,Outdoor Cycling,40
+277,5,Divya Garg,FrontRunners,40,Outdoor Cycling,40
+278,5,Nikhil Gaur,Beer-Biceps,40,Outdoor Cycling,40
+279,5,Lavanya KV ,FrontRunners,40,Outdoor Cycling,40
+280,5,Ashish Kumar,Fit-at-STE,40,Outdoor Cycling,40
+281,5,Preeti Rai,FitX,40,Outdoor Cycling,40
+282,5,Pragya Swarnwnshi,FitX,40,Outdoor Cycling,40
+283,5,Prateek Ram,Aarogya_Bhagya,40,Outdoor Cycling,40
+284,5,Dinesh BM,FitX,40,Outdoor Cycling,40
+285,5,Sucheta Panda,Fitness Mantra @DLM,40,Outdoor Cycling,40
+286,5,Meghana Goud,Fitness Mantra @DLM,40,Outdoor Cycling,40
+287,5,Rishabh Tripathi,Fit-at-STE,40,Outdoor Cycling,40
+288,5,Hiromi Kessler,The Linguistic Warriors,40,Outdoor Cycling,40
+289,5,Sunil GN,Fitness Mantra @DLM,40,Outdoor Cycling,40
+290,5,Pradeep Singh Rawat,Fitness Mantra @DLM,40,Outdoor Cycling,40
+291,5,Hari,The Site Reliability Sprinters,40,Outdoor Cycling,40
+292,5,Yuvraj Saini,Burger Buddies,40,Outdoor Cycling,40
+293,5,Rajesh Agrawal,Fitness Freaks,40,Outdoor Cycling,40
+294,5,Rahul Kushwah,FitX,40,Outdoor Cycling,40
+295,5,Viboo,The Site Reliability Sprinters,40,Outdoor Cycling,40
+296,5,Chetan N,Fitness Mantra @DLM,40,Outdoor Cycling,40
+297,5,RamKumar Gugamsetty ,Couch Potato Lifters,40,Outdoor Cycling,40
+298,5,Saswati Rudra Paul,SForce,40,Outdoor Cycling,40
+299,6,Pavithra KL,FrontRunners,30,Outdoor Cycling,30
+300,6,Simon Shen,Calabash Squad,30,Outdoor Cycling,30
+301,6,Sumit Singh,Fit-at-STE,30,Outdoor Cycling,30
+302,7,Johannes Humburger,CFND Rockstars,27,Outdoor Cycling,27
+303,8,Pius Anil,RCB,22,Outdoor Cycling,22
+304,9,Ashiq Aboo Backer,Fantastic Five,20,Outdoor Cycling,20
+305,9,Deep Srivastava,Burger Buddies,20,Outdoor Cycling,20
+306,9,Soujit,Game Beasts,20,Outdoor Cycling,20
+307,9,Mohammed Saqib ,Couch Potato Lifters,20,Outdoor Cycling,20
+308,9,Hari Naga Durga Nakka,SForce,20,Outdoor Cycling,20
+309,9,Aditya Shellar,CFND Rockstars,20,Outdoor Cycling,20
+310,9,Syam Kumar,FrontRunners,20,Outdoor Cycling,20
+311,9,Vikas Shukla,Burger Buddies,20,Outdoor Cycling,20
+312,9,Dhanush K Shet,Fit-at-STE,20,Outdoor Cycling,20
+313,9,Ankit,The Site Reliability Sprinters,20,Outdoor Cycling,20
+314,10,Kavana,Shiny Girls,10,Outdoor Cycling,10
+315,10,Jiawen,Shiny Girls,10,Outdoor Cycling,10
+316,10,Shashikala K.,Beer-Biceps,10,Outdoor Cycling,10
+317,10,HY,Shiny Girls,10,Outdoor Cycling,10
+318,10,Karthikeyan ,Cloud Fit,10,Outdoor Cycling,10
+319,10,Penny,Shiny Girls,10,Outdoor Cycling,10
+320,10,Merson,#devTeam,10,Outdoor Cycling,10
+321,10,Ahir Sunilkumar,RCB,10,Outdoor Cycling,10
+322,10,Shagun Goyal,Burger Buddies,10,Outdoor Cycling,10
+323,10,Prashant Telkar,40230,10,Outdoor Cycling,10
+324,10,Andreas Doemel,The Linguistic Warriors,10,Outdoor Cycling,10
+325,1,Prateek Ram,Aarogya_Bhagya,20,Air Squats,20
+326,2,Devesh,#devTeam,15,Air Squats,15
+327,3,Dinesh BM,FitX,12,Air Squats,12
+328,4,Udatta Garnaik,FrontRunners,10,Air Squats,10
+329,4,Nitish Kumar Sinha,Cloud Fit,10,Air Squats,10
+330,4,Ananth Vasist,40230,10,Air Squats,10
+331,4,Arunkumar Gowda,Fitness Freaks,10,Air Squats,10
+332,4,Roopa Hubballi,Fitness Freaks,10,Air Squats,10
+333,4,Lars Zankl,The Linguistic Warriors,10,Air Squats,10
+334,4,Saswati Rudra Paul,SForce,10,Air Squats,10
+335,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Air Squats,10
+336,4,Vikas Shukla,Burger Buddies,10,Air Squats,10
+337,4,Syam Kumar,FrontRunners,10,Air Squats,10
+338,4,Simon Shen,Calabash Squad,10,Air Squats,10
+339,4,Sebastian Walde,The Site Reliability Sprinters,10,Air Squats,10
+340,4,Rajesh Agrawal,Fitness Freaks,10,Air Squats,10
+341,4,Niharika Choudhary,2 cool 2 quit,10,Air Squats,10
+342,4,Aditya Shellar,CFND Rockstars,10,Air Squats,10
+343,4,Hari,The Site Reliability Sprinters,10,Air Squats,10
+344,4,Yuvraj Saini,Burger Buddies,10,Air Squats,10
+345,4,Hari Naga Durga Nakka,SForce,10,Air Squats,10
+346,4,Pradeep Singh Rawat,Fitness Mantra @DLM,10,Air Squats,10
+347,4,Aishwarya T,Extreme achievers,10,Air Squats,10
+348,4,Mohammed Saqib ,Couch Potato Lifters,10,Air Squats,10
+349,4,Kishan Bhaskar Nagaraj,40230,10,Air Squats,10
+350,4,Pius Anil,RCB,10,Air Squats,10
+351,4,Sunil GN,Fitness Mantra @DLM,10,Air Squats,10
+352,4,Parisa Anwar Dar,Fit-at-STE,10,Air Squats,10
+353,4,Vandana M,Extreme achievers,10,Air Squats,10
+354,4,Meghana Goud,Fitness Mantra @DLM,10,Air Squats,10
+355,4,Soujit,Game Beasts,10,Air Squats,10
+356,4,Sanjeev Joshi,Flab-U-Less @DLM,10,Air Squats,10
+357,4,Mohd Anas Khan,2 Lazy 2 Fit,10,Air Squats,10
+358,4,Deepa Muralidharan,SForce,10,Air Squats,10
+359,4,Sucheta Panda,Fitness Mantra @DLM,10,Air Squats,10
+360,4,Anil Kumar,40230,10,Air Squats,10
+361,4,Prashanth Muniraju ,Cloud Fit,10,Air Squats,10
+362,4,Deep Srivastava,Burger Buddies,10,Air Squats,10
+363,4,Ashish Kumar,Fit-at-STE,10,Air Squats,10
+364,4,Balaji,DLM Cruzer's,10,Air Squats,10
+365,4,Pragya Swarnwnshi,FitX,10,Air Squats,10
+366,4,Karthikeyan ,Cloud Fit,10,Air Squats,10
+367,4,Benny Mei,A Big Colourful Fly X,10,Air Squats,10
+368,4,Shubhang Dhekula,Cloud Fit,10,Air Squats,10
+369,4,Ashiq Aboo Backer,Fantastic Five,10,Air Squats,10
+370,4,Sohini Mukhopadhyay,Circuit Breakers,10,Air Squats,10
+371,4,Shashikala K.,Beer-Biceps,10,Air Squats,10
+372,4,Kavana,Shiny Girls,10,Air Squats,10
+373,4,Johannes Humburger,CFND Rockstars,10,Air Squats,10
+374,4,Ankit,The Site Reliability Sprinters,10,Air Squats,10
+375,4,Sumit Singh,Fit-at-STE,10,Air Squats,10
+376,4,Rajni Mahajan,Burger Buddies,10,Air Squats,10
+377,4,Mahima,DLM Cruzer's,10,Air Squats,10
+378,4,Latha Balasubramanian,Excellent Walkers,10,Air Squats,10
+379,4,Chetan N,Fitness Mantra @DLM,10,Air Squats,10
+380,4,Dhanush K Shet,Fit-at-STE,10,Air Squats,10
+381,4,Nitin Pradhan,Fantastic Five,10,Air Squats,10
+382,4,SREEKARAN B,Couch Potato Lifters,10,Air Squats,10
+383,4,Sugandh Singhal,FitX,10,Air Squats,10
+384,4,Rahul Kushwah,FitX,10,Air Squats,10
+385,4,Viboo,The Site Reliability Sprinters,10,Air Squats,10
+386,4,Pratik Mishra,SForce,10,Air Squats,10
+387,4,Nagarajaiah Naveen,RCB,10,Air Squats,10
+388,4,Jaheer Pathan,MissFits,10,Air Squats,10
+389,4,Shagun Goyal,Burger Buddies,10,Air Squats,10
+390,4,SHRUTI BHARTI,MSCN,10,Air Squats,10
+391,4,Soumya Panigrahy,SM Champions,10,Air Squats,10
+392,4,Rishabh Tripathi,Fit-at-STE,10,Air Squats,10
+393,4,Antara Banerjee,Cloud Fit,10,Air Squats,10
+394,4,Skyla Shen,Calabash Squad,10,Air Squats,10
+395,4,Ashwini Pai,2 cool 2 quit,10,Air Squats,10
+396,4,KISHAN BHARADWAJ P,MSCN,10,Air Squats,10
+397,4,Naeem Zakir,CFND Rockstars,10,Air Squats,10
+398,4,Rahul M,2 Lazy 2 Fit,10,Air Squats,10
+399,4,Penny,Shiny Girls,10,Air Squats,10
+400,4,BIJO PAUL,MSCN,10,Air Squats,10
+401,4,Sharanabasappa Hosamani,SForce,10,Air Squats,10
+402,4,HY,Shiny Girls,10,Air Squats,10
+403,4,Lutz,The Site Reliability Sprinters,10,Air Squats,10
+404,4,Lavanya KV ,FrontRunners,10,Air Squats,10
+405,4,Preeti Rai,FitX,10,Air Squats,10
+406,4,Jiawen,Shiny Girls,10,Air Squats,10
+407,4,Divya Garg,FrontRunners,10,Air Squats,10
+408,4,Pavithra KL,FrontRunners,10,Air Squats,10
+409,4,Nikhil Gaur,Beer-Biceps,10,Air Squats,10
+410,1,Prateek Ram,Aarogya_Bhagya,20,Lunges,20
+411,2,Nikhil Gaur,Beer-Biceps,15,Lunges,15
+412,3,Sebastian Walde,The Site Reliability Sprinters,12,Lunges,12
+413,4,Nitish Kumar Sinha,Cloud Fit,10,Lunges,10
+414,4,Ananth Vasist,40230,10,Lunges,10
+415,4,Roopa Hubballi,Fitness Freaks,10,Lunges,10
+416,4,Lars Zankl,The Linguistic Warriors,10,Lunges,10
+417,4,Saswati Rudra Paul,SForce,10,Lunges,10
+418,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Lunges,10
+419,4,Vikas Shukla,Burger Buddies,10,Lunges,10
+420,4,Thulasi T. D.,Beer-Biceps,10,Lunges,10
+421,4,Syam Kumar,FrontRunners,10,Lunges,10
+422,4,Niharika Choudhary,2 cool 2 quit,10,Lunges,10
+423,4,Rajesh Agrawal,Fitness Freaks,10,Lunges,10
+424,4,Simon Shen,Calabash Squad,10,Lunges,10
+425,4,Hari,The Site Reliability Sprinters,10,Lunges,10
+426,4,Yuvraj Saini,Burger Buddies,10,Lunges,10
+427,4,Hari Naga Durga Nakka,SForce,10,Lunges,10
+428,4,Pradeep Singh Rawat,Fitness Mantra @DLM,10,Lunges,10
+429,4,Mohammed Saqib ,Couch Potato Lifters,10,Lunges,10
+430,4,Kishan Bhaskar Nagaraj,40230,10,Lunges,10
+431,4,Sunil GN,Fitness Mantra @DLM,10,Lunges,10
+432,4,Meghana Goud,Fitness Mantra @DLM,10,Lunges,10
+433,4,Sanjeev Joshi,Flab-U-Less @DLM,10,Lunges,10
+434,4,Mohd Anas Khan,2 Lazy 2 Fit,10,Lunges,10
+435,4,Deepa Muralidharan,SForce,10,Lunges,10
+436,4,Sucheta Panda,Fitness Mantra @DLM,10,Lunges,10
+437,4,Anil Kumar,40230,10,Lunges,10
+438,4,Prashanth Muniraju ,Cloud Fit,10,Lunges,10
+439,4,Ashiq Aboo Backer,Fantastic Five,10,Lunges,10
+440,4,Pragya Swarnwnshi,FitX,10,Lunges,10
+441,4,Ashish Kumar,Fit-at-STE,10,Lunges,10
+442,4,Balaji,DLM Cruzer's,10,Lunges,10
+443,4,Deep Srivastava,Burger Buddies,10,Lunges,10
+444,4,Dinesh BM,FitX,10,Lunges,10
+445,4,Shashikala K.,Beer-Biceps,10,Lunges,10
+446,4,Johannes Humburger,CFND Rockstars,10,Lunges,10
+447,4,Sumit Singh,Fit-at-STE,10,Lunges,10
+448,4,Ankit,The Site Reliability Sprinters,10,Lunges,10
+449,4,Rajni Mahajan,Burger Buddies,10,Lunges,10
+450,4,Mahima,DLM Cruzer's,10,Lunges,10
+451,4,Dhanush K Shet,Fit-at-STE,10,Lunges,10
+452,4,Chetan N,Fitness Mantra @DLM,10,Lunges,10
+453,4,SREEKARAN B,Couch Potato Lifters,10,Lunges,10
+454,4,Nitin Pradhan,Fantastic Five,10,Lunges,10
+455,4,Sugandh Singhal,FitX,10,Lunges,10
+456,4,Rahul Kushwah,FitX,10,Lunges,10
+457,4,Pratik Mishra,SForce,10,Lunges,10
+458,4,Viboo,The Site Reliability Sprinters,10,Lunges,10
+459,4,Prashant Telkar,40230,10,Lunges,10
+460,4,Shagun Goyal,Burger Buddies,10,Lunges,10
+461,4,SHRUTI BHARTI,MSCN,10,Lunges,10
+462,4,Harsha Gubbi,40230,10,Lunges,10
+463,4,Rishabh Tripathi,Fit-at-STE,10,Lunges,10
+464,4,Skyla Shen,Calabash Squad,10,Lunges,10
+465,4,KISHAN BHARADWAJ P,MSCN,10,Lunges,10
+466,4,Naeem Zakir,CFND Rockstars,10,Lunges,10
+467,4,Rahul M,2 Lazy 2 Fit,10,Lunges,10
+468,4,Penny,Shiny Girls,10,Lunges,10
+469,4,BIJO PAUL,MSCN,10,Lunges,10
+470,4,Sharanabasappa Hosamani,SForce,10,Lunges,10
+471,4,HY,Shiny Girls,10,Lunges,10
+472,4,Lutz,The Site Reliability Sprinters,10,Lunges,10
+473,4,Lavanya KV ,FrontRunners,10,Lunges,10
+474,4,Preeti Rai,FitX,10,Lunges,10
+475,4,Jiawen,Shiny Girls,10,Lunges,10
+476,4,Divya Garg,FrontRunners,10,Lunges,10
+477,4,Udatta Garnaik,FrontRunners,10,Lunges,10
+478,4,Pavithra KL,FrontRunners,10,Lunges,10
+479,1,Rahul Kushwah,FitX,20,Abdominal Crunches,20
+480,2,Prateek Ram,Aarogya_Bhagya,15,Abdominal Crunches,15
+481,2,Nikhil Gaur,Beer-Biceps,15,Abdominal Crunches,15
+482,3,Simon Shen,Calabash Squad,12,Abdominal Crunches,12
+483,4,Nitish Kumar Sinha,Cloud Fit,10,Abdominal Crunches,10
+484,4,Ananth Vasist,40230,10,Abdominal Crunches,10
+485,4,Arunkumar Gowda,Fitness Freaks,10,Abdominal Crunches,10
+486,4,Lars Zankl,The Linguistic Warriors,10,Abdominal Crunches,10
+487,4,Saswati Rudra Paul,SForce,10,Abdominal Crunches,10
+488,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Abdominal Crunches,10
+489,4,Vikas Shukla,Burger Buddies,10,Abdominal Crunches,10
+490,4,Syam Kumar,FrontRunners,10,Abdominal Crunches,10
+491,4,Sebastian Walde,The Site Reliability Sprinters,10,Abdominal Crunches,10
+492,4,Rajesh Agrawal,Fitness Freaks,10,Abdominal Crunches,10
+493,4,Aditya Shellar,CFND Rockstars,10,Abdominal Crunches,10
+494,4,Hari,The Site Reliability Sprinters,10,Abdominal Crunches,10
+495,4,Yuvraj Saini,Burger Buddies,10,Abdominal Crunches,10
+496,4,Hari Naga Durga Nakka,SForce,10,Abdominal Crunches,10
+497,4,Pradeep Singh Rawat,Fitness Mantra @DLM,10,Abdominal Crunches,10
+498,4,Aishwarya T,Extreme achievers,10,Abdominal Crunches,10
+499,4,Mohammed Saqib ,Couch Potato Lifters,10,Abdominal Crunches,10
+500,4,Sunil GN,Fitness Mantra @DLM,10,Abdominal Crunches,10
+501,4,Parisa Anwar Dar,Fit-at-STE,10,Abdominal Crunches,10
+502,4,Meghana Goud,Fitness Mantra @DLM,10,Abdominal Crunches,10
+503,4,Sanjeev Joshi,Flab-U-Less @DLM,10,Abdominal Crunches,10
+504,4,Mohd Anas Khan,2 Lazy 2 Fit,10,Abdominal Crunches,10
+505,4,Deepa Muralidharan,SForce,10,Abdominal Crunches,10
+506,4,Sucheta Panda,Fitness Mantra @DLM,10,Abdominal Crunches,10
+507,4,Anil Kumar,40230,10,Abdominal Crunches,10
+508,4,Prashanth Muniraju ,Cloud Fit,10,Abdominal Crunches,10
+509,4,Deep Srivastava,Burger Buddies,10,Abdominal Crunches,10
+510,4,Pragya Swarnwnshi,FitX,10,Abdominal Crunches,10
+511,4,Balaji,DLM Cruzer's,10,Abdominal Crunches,10
+512,4,Ashish Kumar,Fit-at-STE,10,Abdominal Crunches,10
+513,4,Sohini Mukhopadhyay,Circuit Breakers,10,Abdominal Crunches,10
+514,4,Ashiq Aboo Backer,Fantastic Five,10,Abdominal Crunches,10
+515,4,Karthikeyan ,Cloud Fit,10,Abdominal Crunches,10
+516,4,Dinesh BM,FitX,10,Abdominal Crunches,10
+517,4,Shashikala K.,Beer-Biceps,10,Abdominal Crunches,10
+518,4,Johannes Humburger,CFND Rockstars,10,Abdominal Crunches,10
+519,4,Sumit Singh,Fit-at-STE,10,Abdominal Crunches,10
+520,4,Ankit,The Site Reliability Sprinters,10,Abdominal Crunches,10
+521,4,Rajni Mahajan,Burger Buddies,10,Abdominal Crunches,10
+522,4,SREEKARAN B,Couch Potato Lifters,10,Abdominal Crunches,10
+523,4,Latha Balasubramanian,Excellent Walkers,10,Abdominal Crunches,10
+524,4,Chetan N,Fitness Mantra @DLM,10,Abdominal Crunches,10
+525,4,Mahima,DLM Cruzer's,10,Abdominal Crunches,10
+526,4,Nitin Pradhan,Fantastic Five,10,Abdominal Crunches,10
+527,4,Dhanush K Shet,Fit-at-STE,10,Abdominal Crunches,10
+528,4,Viboo,The Site Reliability Sprinters,10,Abdominal Crunches,10
+529,4,Sugandh Singhal,FitX,10,Abdominal Crunches,10
+530,4,Pratik Mishra,SForce,10,Abdominal Crunches,10
+531,4,Prashant Telkar,40230,10,Abdominal Crunches,10
+532,4,Jaheer Pathan,MissFits,10,Abdominal Crunches,10
+533,4,Shagun Goyal,Burger Buddies,10,Abdominal Crunches,10
+534,4,Harsha Gubbi,40230,10,Abdominal Crunches,10
+535,4,Rishabh Tripathi,Fit-at-STE,10,Abdominal Crunches,10
+536,4,Antara Banerjee,Cloud Fit,10,Abdominal Crunches,10
+537,4,Skyla Shen,Calabash Squad,10,Abdominal Crunches,10
+538,4,KISHAN BHARADWAJ P,MSCN,10,Abdominal Crunches,10
+539,4,Naeem Zakir,CFND Rockstars,10,Abdominal Crunches,10
+540,4,Rahul M,2 Lazy 2 Fit,10,Abdominal Crunches,10
+541,4,Sharanabasappa Hosamani,SForce,10,Abdominal Crunches,10
+542,4,BIJO PAUL,MSCN,10,Abdominal Crunches,10
+543,4,HY,Shiny Girls,10,Abdominal Crunches,10
+544,4,Lutz,The Site Reliability Sprinters,10,Abdominal Crunches,10
+545,4,Lavanya KV ,FrontRunners,10,Abdominal Crunches,10
+546,4,Preeti Rai,FitX,10,Abdominal Crunches,10
+547,4,Divya Garg,FrontRunners,10,Abdominal Crunches,10
+548,4,Pavithra KL,FrontRunners,10,Abdominal Crunches,10
+549,1,Prateek Ram,Aarogya_Bhagya,20,Push Ups,20
+550,2,Ashish Kumar,Fit-at-STE,15,Push Ups,15
+551,3,Andreas Doemel,The Linguistic Warriors,12,Push Ups,12
+552,4,Pavithra KL,FrontRunners,10,Push Ups,10
+553,4,Nitish Kumar Sinha,Cloud Fit,10,Push Ups,10
+554,4,Lars Zankl,The Linguistic Warriors,10,Push Ups,10
+555,4,Saswati Rudra Paul,SForce,10,Push Ups,10
+556,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Push Ups,10
+557,4,Syam Kumar,FrontRunners,10,Push Ups,10
+558,4,Simon Shen,Calabash Squad,10,Push Ups,10
+559,4,Sebastian Walde,The Site Reliability Sprinters,10,Push Ups,10
+560,4,Rajesh Agrawal,Fitness Freaks,10,Push Ups,10
+561,4,Aditya Shellar,CFND Rockstars,10,Push Ups,10
+562,4,Hari,The Site Reliability Sprinters,10,Push Ups,10
+563,4,Yuvraj Saini,Burger Buddies,10,Push Ups,10
+564,4,Hari Naga Durga Nakka,SForce,10,Push Ups,10
+565,4,Pradeep Singh Rawat,Fitness Mantra @DLM,10,Push Ups,10
+566,4,Aishwarya T,Extreme achievers,10,Push Ups,10
+567,4,Mohammed Saqib ,Couch Potato Lifters,10,Push Ups,10
+568,4,Sunil GN,Fitness Mantra @DLM,10,Push Ups,10
+569,4,Parisa Anwar Dar,Fit-at-STE,10,Push Ups,10
+570,4,Meghana Goud,Fitness Mantra @DLM,10,Push Ups,10
+571,4,Sanjeev Joshi,Flab-U-Less @DLM,10,Push Ups,10
+572,4,Mohd Anas Khan,2 Lazy 2 Fit,10,Push Ups,10
+573,4,Deepa Muralidharan,SForce,10,Push Ups,10
+574,4,Sucheta Panda,Fitness Mantra @DLM,10,Push Ups,10
+575,4,Anil Kumar,40230,10,Push Ups,10
+576,4,Prashanth Muniraju ,Cloud Fit,10,Push Ups,10
+577,4,Ashiq Aboo Backer,Fantastic Five,10,Push Ups,10
+578,4,Balaji,DLM Cruzer's,10,Push Ups,10
+579,4,Pragya Swarnwnshi,FitX,10,Push Ups,10
+580,4,Benny Mei,A Big Colourful Fly X,10,Push Ups,10
+581,4,Shubhang Dhekula,Cloud Fit,10,Push Ups,10
+582,4,Dinesh BM,FitX,10,Push Ups,10
+583,4,Johannes Humburger,CFND Rockstars,10,Push Ups,10
+584,4,Sumit Singh,Fit-at-STE,10,Push Ups,10
+585,4,Ankit,The Site Reliability Sprinters,10,Push Ups,10
+586,4,Rajni Mahajan,Burger Buddies,10,Push Ups,10
+587,4,Latha Balasubramanian,Excellent Walkers,10,Push Ups,10
+588,4,Chetan N,Fitness Mantra @DLM,10,Push Ups,10
+589,4,Dhanush K Shet,Fit-at-STE,10,Push Ups,10
+590,4,Viboo,The Site Reliability Sprinters,10,Push Ups,10
+591,4,Sugandh Singhal,FitX,10,Push Ups,10
+592,4,Pratik Mishra,SForce,10,Push Ups,10
+593,4,Rahul Kushwah,FitX,10,Push Ups,10
+594,4,Prashant Telkar,40230,10,Push Ups,10
+595,4,Jaheer Pathan,MissFits,10,Push Ups,10
+596,4,Shagun Goyal,Burger Buddies,10,Push Ups,10
+597,4,Rishabh Tripathi,Fit-at-STE,10,Push Ups,10
+598,4,Antara Banerjee,Cloud Fit,10,Push Ups,10
+599,4,Skyla Shen,Calabash Squad,10,Push Ups,10
+600,4,KISHAN BHARADWAJ P,MSCN,10,Push Ups,10
+601,4,Naeem Zakir,CFND Rockstars,10,Push Ups,10
+602,4,Rahul M,2 Lazy 2 Fit,10,Push Ups,10
+603,4,Sharanabasappa Hosamani,SForce,10,Push Ups,10
+604,4,BIJO PAUL,MSCN,10,Push Ups,10
+605,4,HY,Shiny Girls,10,Push Ups,10
+606,4,Feng Liu,A Big Colourful Fly X,10,Push Ups,10
+607,4,Lutz,The Site Reliability Sprinters,10,Push Ups,10
+608,4,Preeti Rai,FitX,10,Push Ups,10
+609,4,Divya Garg,FrontRunners,10,Push Ups,10
+610,4,Udatta Garnaik,FrontRunners,10,Push Ups,10
+611,4,Nikhil Gaur,Beer-Biceps,10,Push Ups,10
+612,1,Prateek Ram,Aarogya_Bhagya,20,Burpees,20
+613,2,Mohammed Saqib ,Couch Potato Lifters,15,Burpees,15
+614,2,Pradeep Singh Rawat,Fitness Mantra @DLM,15,Burpees,15
+615,3,Sebastian Walde,The Site Reliability Sprinters,12,Burpees,12
+616,3,Hari Naga Durga Nakka,SForce,12,Burpees,12
+617,3,Simon Shen,Calabash Squad,12,Burpees,12
+618,4,Udatta Garnaik,FrontRunners,10,Burpees,10
+619,4,Divya Garg,FrontRunners,10,Burpees,10
+620,4,Dinesh BM,FitX,10,Burpees,10
+621,4,Nikhil Gaur,Beer-Biceps,10,Burpees,10
+622,4,Ashish Kumar,Fit-at-STE,10,Burpees,10
+623,4,Pragya Swarnwnshi,FitX,10,Burpees,10
+624,4,Preeti Rai,FitX,10,Burpees,10
+625,4,HY,Shiny Girls,10,Burpees,10
+626,4,Lutz,The Site Reliability Sprinters,10,Burpees,10
+627,4,Prashanth Muniraju ,Cloud Fit,10,Burpees,10
+628,4,Sharanabasappa Hosamani,SForce,10,Burpees,10
+629,4,Anil Kumar,40230,10,Burpees,10
+630,4,Rahul M,2 Lazy 2 Fit,10,Burpees,10
+631,4,Naeem Zakir,CFND Rockstars,10,Burpees,10
+632,4,Sucheta Panda,Fitness Mantra @DLM,10,Burpees,10
+633,4,Deepa Muralidharan,SForce,10,Burpees,10
+634,4,Mohd Anas Khan,2 Lazy 2 Fit,10,Burpees,10
+635,4,Meghana Goud,Fitness Mantra @DLM,10,Burpees,10
+636,4,Rishabh Tripathi,Fit-at-STE,10,Burpees,10
+637,4,Parisa Anwar Dar,Fit-at-STE,10,Burpees,10
+638,4,Antara Banerjee,Cloud Fit,10,Burpees,10
+639,4,Skyla Shen,Calabash Squad,10,Burpees,10
+640,4,Sunil GN,Fitness Mantra @DLM,10,Burpees,10
+641,4,Harsha Gubbi,40230,10,Burpees,10
+642,4,Shagun Goyal,Burger Buddies,10,Burpees,10
+643,4,Hari,The Site Reliability Sprinters,10,Burpees,10
+644,4,Yuvraj Saini,Burger Buddies,10,Burpees,10
+645,4,Jaheer Pathan,MissFits,10,Burpees,10
+646,4,Rajesh Agrawal,Fitness Freaks,10,Burpees,10
+647,4,Aditya Shellar,CFND Rockstars,10,Burpees,10
+648,4,Syam Kumar,FrontRunners,10,Burpees,10
+649,4,Sugandh Singhal,FitX,10,Burpees,10
+650,4,Rahul Kushwah,FitX,10,Burpees,10
+651,4,Pratik Mishra,SForce,10,Burpees,10
+652,4,Chetan N,Fitness Mantra @DLM,10,Burpees,10
+653,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Burpees,10
+654,4,Saswati Rudra Paul,SForce,10,Burpees,10
+655,4,Viboo,The Site Reliability Sprinters,10,Burpees,10
+656,4,Vikas Shukla,Burger Buddies,10,Burpees,10
+657,4,Dhanush K Shet,Fit-at-STE,10,Burpees,10
+658,4,SREEKARAN B,Couch Potato Lifters,10,Burpees,10
+659,4,Sumit Singh,Fit-at-STE,10,Burpees,10
+660,4,Ankit,The Site Reliability Sprinters,10,Burpees,10
+661,4,Rajni Mahajan,Burger Buddies,10,Burpees,10
+662,1,Viboo,The Site Reliability Sprinters,20,Surya Namaskar,20
+663,2,Prateek Ram,Aarogya_Bhagya,15,Surya Namaskar,15
+664,2,Pradeep Singh Rawat,Fitness Mantra @DLM,15,Surya Namaskar,15
+665,3,Sugandh Singhal,FitX,12,Surya Namaskar,12
+666,4,Udatta Garnaik,FrontRunners,10,Surya Namaskar,10
+667,4,Dinesh BM,FitX,10,Surya Namaskar,10
+668,4,Divya Garg,FrontRunners,10,Surya Namaskar,10
+669,4,Nikhil Gaur,Beer-Biceps,10,Surya Namaskar,10
+670,4,Lavanya KV ,FrontRunners,10,Surya Namaskar,10
+671,4,Ashish Kumar,Fit-at-STE,10,Surya Namaskar,10
+672,4,Preeti Rai,FitX,10,Surya Namaskar,10
+673,4,Pragya Swarnwnshi,FitX,10,Surya Namaskar,10
+674,4,Lutz,The Site Reliability Sprinters,10,Surya Namaskar,10
+675,4,Prashanth Muniraju ,Cloud Fit,10,Surya Namaskar,10
+676,4,Sharanabasappa Hosamani,SForce,10,Surya Namaskar,10
+677,4,Naeem Zakir,CFND Rockstars,10,Surya Namaskar,10
+678,4,Sucheta Panda,Fitness Mantra @DLM,10,Surya Namaskar,10
+679,4,Deepa Muralidharan,SForce,10,Surya Namaskar,10
+680,4,Meghana Goud,Fitness Mantra @DLM,10,Surya Namaskar,10
+681,4,Rishabh Tripathi,Fit-at-STE,10,Surya Namaskar,10
+682,4,Parisa Anwar Dar,Fit-at-STE,10,Surya Namaskar,10
+683,4,Antara Banerjee,Cloud Fit,10,Surya Namaskar,10
+684,4,Mohammed Saqib ,Couch Potato Lifters,10,Surya Namaskar,10
+685,4,Sunil GN,Fitness Mantra @DLM,10,Surya Namaskar,10
+686,4,Shagun Goyal,Burger Buddies,10,Surya Namaskar,10
+687,4,Hari Naga Durga Nakka,SForce,10,Surya Namaskar,10
+688,4,Hari,The Site Reliability Sprinters,10,Surya Namaskar,10
+689,4,Jaheer Pathan,MissFits,10,Surya Namaskar,10
+690,4,Yuvraj Saini,Burger Buddies,10,Surya Namaskar,10
+691,4,Rahul Kushwah,FitX,10,Surya Namaskar,10
+692,4,Vikas Shukla,Burger Buddies,10,Surya Namaskar,10
+693,4,Syam Kumar,FrontRunners,10,Surya Namaskar,10
+694,4,Pratik Mishra,SForce,10,Surya Namaskar,10
+695,4,Saswati Rudra Paul,SForce,10,Surya Namaskar,10
+696,4,Chetan N,Fitness Mantra @DLM,10,Surya Namaskar,10
+697,4,RamKumar Gugamsetty ,Couch Potato Lifters,10,Surya Namaskar,10
+698,4,Dhanush K Shet,Fit-at-STE,10,Surya Namaskar,10
+699,4,SREEKARAN B,Couch Potato Lifters,10,Surya Namaskar,10
+700,4,Sumit Singh,Fit-at-STE,10,Surya Namaskar,10
+701,4,Ankit,The Site Reliability Sprinters,10,Surya Namaskar,10
